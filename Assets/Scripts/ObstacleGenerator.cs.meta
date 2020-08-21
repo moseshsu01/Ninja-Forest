@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 49efc72fedc4648c3b502223466896a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Pattern1: {fileID: 9209814521734965237, guid: 5e87c0a01b98946e487587ec5c7bb492, type: 3}
+  - Pattern2: {fileID: 3108472294279310396, guid: 352ab83814d6446aa85957847def398e, type: 3}
+  - Pattern3: {fileID: 6443692678315817780, guid: d6061a49aaaf444ec877d6a2e738be4c, type: 3}
+  - Pattern4: {fileID: 1252316870902345629, guid: cd4c5bdbcd8164c08aec41527a64dc44, type: 3}
+  - Pattern5: {fileID: 2962740906402675403, guid: 6fb82f75680474ea6958596111c4b41c, type: 3}
+  - Pattern6: {fileID: 4161022045727897827, guid: dd1d3c169f0eb413390b9285839f8dd1, type: 3}
+  - Pattern7: {fileID: 8857578338735410720, guid: 207252a700b20461ebc65b4036d08782, type: 3}
+  - Pattern8: {fileID: 7948019324184681713, guid: b29967028c7264100803c67688b2cb97, type: 3}
+  - Pattern9: {fileID: 6739791507495209685, guid: a7a22c661f3fc496ab545ad9fb7d265e, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
