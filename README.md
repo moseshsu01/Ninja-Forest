@@ -2,6 +2,9 @@
 
 2D side-scrolling platform game
 
+link to game:
+https://simmer.io/@Cyporkador/ninja-forest
+
 # Controls
 
 - Up-arrow to jump
