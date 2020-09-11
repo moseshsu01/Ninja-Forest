@@ -3,7 +3,7 @@
 2D side-scrolling platform game
 
 link to game:
-https://simmer.io/@Cyporkador/ninja-forest
+https://cypor.itch.io/ninja-forest
 
 # Controls
 
